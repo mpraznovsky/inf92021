@@ -1,0 +1,20 @@
+{
+  "User": {
+    "id":"1",
+    "name": "Jožko Mrkvička",
+    "schedule": {"1":"INF","2":"MAT","3":"SJL"},
+    "ring":"8:50",
+  },
+  "User": {
+    "id":"2",
+    "name": "Anna Malá",
+    "schedule": {"1":"INF","2":"MAT","3":"SJL"},
+    "ring":"8:50",
+  },
+  "User": {
+    "id":"3",
+    "name": "Peter Sveter",
+    "schedule": {"1":"ANJ","2":"MAT","3":"SJL"},
+    "ring":"8:50",
+  },
+}
